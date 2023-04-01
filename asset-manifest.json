@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/https//prasanth7890.github.io/Data-Structures-and-Algorithm-Visualizer/static/css/main.70567a84.css",
-    "main.js": "/https//prasanth7890.github.io/Data-Structures-and-Algorithm-Visualizer/static/js/main.21cdc356.js",
-    "static/js/787.c1112931.chunk.js": "/https//prasanth7890.github.io/Data-Structures-and-Algorithm-Visualizer/static/js/787.c1112931.chunk.js",
-    "static/media/bg.png": "/https//prasanth7890.github.io/Data-Structures-and-Algorithm-Visualizer/static/media/bg.8f0ceede785a9ea25534.png",
-    "index.html": "/https//prasanth7890.github.io/Data-Structures-and-Algorithm-Visualizer/index.html",
-    "main.70567a84.css.map": "/https//prasanth7890.github.io/Data-Structures-and-Algorithm-Visualizer/static/css/main.70567a84.css.map",
-    "main.21cdc356.js.map": "/https//prasanth7890.github.io/Data-Structures-and-Algorithm-Visualizer/static/js/main.21cdc356.js.map",
-    "787.c1112931.chunk.js.map": "/https//prasanth7890.github.io/Data-Structures-and-Algorithm-Visualizer/static/js/787.c1112931.chunk.js.map"
+    "main.css": "/Data-Structures-and-Algorithm-Visualizer/static/css/main.9bfa77fe.css",
+    "main.js": "/Data-Structures-and-Algorithm-Visualizer/static/js/main.ca98928f.js",
+    "static/js/787.c1112931.chunk.js": "/Data-Structures-and-Algorithm-Visualizer/static/js/787.c1112931.chunk.js",
+    "static/media/bg.png": "/Data-Structures-and-Algorithm-Visualizer/static/media/bg.8f0ceede785a9ea25534.png",
+    "index.html": "/Data-Structures-and-Algorithm-Visualizer/index.html",
+    "main.9bfa77fe.css.map": "/Data-Structures-and-Algorithm-Visualizer/static/css/main.9bfa77fe.css.map",
+    "main.ca98928f.js.map": "/Data-Structures-and-Algorithm-Visualizer/static/js/main.ca98928f.js.map",
+    "787.c1112931.chunk.js.map": "/Data-Structures-and-Algorithm-Visualizer/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.70567a84.css",
-    "static/js/main.21cdc356.js"
+    "static/css/main.9bfa77fe.css",
+    "static/js/main.ca98928f.js"
   ]
 }
