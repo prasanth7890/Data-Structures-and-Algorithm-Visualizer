@@ -21,7 +21,7 @@ function App() {
   
   return (
     <div>
-      <BrowserRouter> 
+      <BrowserRouter basename='/'> 
         <Routes>
           <Route path="/stack" element={<Stack></Stack>} />
           <Route path="/queue" element={<Queue></Queue>} />
@@ -37,18 +37,6 @@ function App() {
         </Routes>
       </BrowserRouter>
 
-      {/* <Arrays></Arrays> */}
-      {/* <NQueensVisualization/> */}
-      {/* <Stack></Stack> */}
-      {/* <Queen></Queen> */}
-      {/* <Factorial></Factorial> */}
-      {/* <Queue></Queue> */}
-      {/* <Linkedlist></Linkedlist> */}
-      {/* <PathfindingVisualizer/> */}
-      {/* <SortingVisualizer/> */}
-      {/* <Frontend></Frontend> */}
-      {/* <BST/> */}
-      {/* <Homepage/> */}
     </div>
   );
 }
