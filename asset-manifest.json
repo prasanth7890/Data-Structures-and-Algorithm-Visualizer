@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Data-Structures-and-Algorithm-Visualizer/static/css/main.9bfa77fe.css",
-    "main.js": "/Data-Structures-and-Algorithm-Visualizer/static/js/main.ca98928f.js",
+    "main.js": "/Data-Structures-and-Algorithm-Visualizer/static/js/main.4a690ef2.js",
     "static/js/787.c1112931.chunk.js": "/Data-Structures-and-Algorithm-Visualizer/static/js/787.c1112931.chunk.js",
     "static/media/bg.png": "/Data-Structures-and-Algorithm-Visualizer/static/media/bg.8f0ceede785a9ea25534.png",
     "index.html": "/Data-Structures-and-Algorithm-Visualizer/index.html",
     "main.9bfa77fe.css.map": "/Data-Structures-and-Algorithm-Visualizer/static/css/main.9bfa77fe.css.map",
-    "main.ca98928f.js.map": "/Data-Structures-and-Algorithm-Visualizer/static/js/main.ca98928f.js.map",
+    "main.4a690ef2.js.map": "/Data-Structures-and-Algorithm-Visualizer/static/js/main.4a690ef2.js.map",
     "787.c1112931.chunk.js.map": "/Data-Structures-and-Algorithm-Visualizer/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9bfa77fe.css",
-    "static/js/main.ca98928f.js"
+    "static/js/main.4a690ef2.js"
   ]
 }
