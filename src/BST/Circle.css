@@ -1,0 +1,117 @@
+.mainframe {
+    background-color: grey;
+    position: absolute;
+    left: 292px;
+    border: 3px solid black;
+}
+
+
+.btn1 {
+    position: absolute;
+    top: 0px;
+    left: 250px;
+    /* margin-bottom: 20px; */
+}
+
+.refresh {
+    position: relative;
+    left: -332px;
+    top: 1.5px;
+}
+
+.insert {
+    top: 56px;
+}
+
+.clear {
+    top: 28px;
+}
+
+.delete-bst {
+    top: 112px;
+    width: 66px;
+}
+
+
+.inorder {
+    top: 246px
+}
+
+.preorder {
+    top: 274px;
+}
+
+.postorder {
+    top: 302px;
+}
+
+.colors {
+    top:170px;
+}
+
+.traversal {
+    position: absolute;
+    /* top: 500px; */
+    left: 598px;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+}
+
+.theory-bst{
+    color: black;
+   
+    margin-left: 270px; /* same as the width of the navbar */
+    padding: 20px; /* optional, add padding to the content */
+  
+    font-size: larger;
+    text-align:justify;
+  }
+
+
+.search-bst {
+    top: 84px
+}
+
+.circle {
+    fill: red;
+    stroke: black;
+    stroke-width: 2.5;
+}
+
+.highlighted {
+    fill: rgb(71, 218, 38) !important;
+}
+
+
+.circle:hover {
+    animation: hover-animate 1s infinite;
+}
+
+@keyframes hover-animate {
+    /* from {fill: red;} */
+    to {fill: aqua;}
+}
+
+.move {
+    position: relative;
+    top: -65px;
+    left: 43px;
+}
+
+.traversalBtns {
+    position: relative;
+    left: 43px;
+}
+
+.headingoftraversal {
+    position: relative;
+    top: 213px;
+    left: -459px;
+}
+
+.h1ofbst {
+    padding-left: 287px;
+    padding-top: 6px;
+    color:rgb(90,17,64);
+}

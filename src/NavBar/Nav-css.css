@@ -1,0 +1,51 @@
+.navigation {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-image: linear-gradient(to right, #051937, #2a1a43, #4d1544, #6b0a39, #7f1024);
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    height: 70px;
+    z-index: 9999; /* add a high z-index value to ensure it appears on top of other elements */
+  }
+  
+  /* add some padding to the top of the body to make room for the fixed navigationbar */
+  body {
+    padding-top: 10px;
+  }
+  
+  
+  .navigation ul {
+    margin-top: 20px;
+    display: flex;
+    list-style: none;
+  }
+  
+  .navigation li {
+    margin-right: 10px;
+   
+  }
+  
+  .navigation li:last-child {
+    margin-right: 0;
+  }
+  
+  .navigation a {
+    color: #fff;
+    text-decoration: none;
+    padding: 5px;
+  }
+  
+  .navigation a:hover {
+    background-color: #555;
+  }
+  
+  .navigation img {
+    height: 30px;
+    width: auto;
+    margin-left: 1100px;
+  }

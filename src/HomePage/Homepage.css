@@ -1,0 +1,95 @@
+.container-homepage {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    background-image: url('bg.png');
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    height: 676px;
+    width: 1550px;
+    /* left: 360px; */
+    top: 69px;
+}
+
+.flex-box1 {
+    vertical-align: middle;
+    text-align: center;
+    line-height: 180px;
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+    margin-top: 40px;
+    border: 3px solid rgb(0, 0, 0);
+    background-color: whitesmoke;  
+    border-radius: 24px;
+    color: black;
+   font-size: larger;
+   font-weight: bolder;
+}
+
+.flex-box1:hover {
+  /* background-color: yellow; */
+  animation-name: scaling-up;
+  animation-duration: 0.3s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes scaling-up {
+  from { transform: scale(1); }
+  to { transform: scale(1.1); }
+}
+
+.stack {
+  /* background-color: rgb(228,89,100); */
+  background-color: transparent;
+}
+
+.queue {
+  /* background-color: rgb(59,178,228); */
+  background-color: transparent;
+}
+
+
+
+.linkedlist {
+  /* background-color: rgb(79,190,168); */
+  background-color: transparent;
+}
+
+.bst {
+  /* background-color: rgb(230,167,63); */
+  background-color: transparent;
+}
+
+
+.srtngvis {
+  /* background-color: rgb(142,142,242); */
+  background-color: transparent;
+}
+
+.pthvis {
+  /* background-color: rgb(254,255,134); */
+  background-color: transparent;
+}
+
+.arr {
+  /* background-color: rgb(88, 88, 86); */
+  background-color: transparent;
+}
+
+.factorial {
+  /* background-color: rgb(249,181,208); */
+  background-color: transparent;
+}
+
+
+.homepageDivs {
+  /* text-decoration: none; */
+  color: black;
+  text-decoration: none;
+}
+
+.homepageDivs:hover {
+    color: black;
+}
